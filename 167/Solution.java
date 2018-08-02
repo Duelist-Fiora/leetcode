@@ -1,9 +1,3 @@
-import java.util.Arrays;
-
-/**
- * @author liangjh
- * @create 2018-08-02 14:05
- **/
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int[] index = new int[2];

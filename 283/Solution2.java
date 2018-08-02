@@ -1,7 +1,3 @@
-/**
- * @author liangjh
- * @create 2018-08-02 14:02
- **/
 public class Solution2 {
     public void moveZeros(int[] nums) {
         int j = 0;

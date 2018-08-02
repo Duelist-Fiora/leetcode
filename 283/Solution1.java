@@ -1,7 +1,3 @@
-/**
- * @author liangjh
- * @create 2018-08-02 14:01
- **/
 public class Solution1 {
     public void moveZeros(int[] nums) {
         int[] nonZeroEle = new int[nums.length];

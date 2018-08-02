@@ -1,7 +1,3 @@
-/**
- * @author liangjh
- * @create 2018-08-02 14:05
- **/
 public class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
 
